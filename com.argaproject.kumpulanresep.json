@@ -23,8 +23,8 @@
 	
     "inter_count" : 5,
 
-    "mode_offline_mp3" : false,
-	"enable_sticky_notification" : true,
+    "mode_offline_mp3" : true,
+	"enable_sticky_notification" : false,
     "enable_strap" : true,
     "enable_strap_Splah" : true,
     "ads_on_exit_dialog" : true,
