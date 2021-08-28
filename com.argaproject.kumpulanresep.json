@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "https://argaproject-kumpulanresep.blogspot.com/?view=sidebar",
+    "url_utama" : "https://argaproject-kumpulanresep.blogspot.com/"",
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
@@ -51,7 +51,7 @@
 
     "bannerid" : "ca-app-pub-3940256099942544/6300978111",
     "interid" : "ca-app-pub-3940256099942544/1033173712",
-    "nativeid" : "ca-app-pub-3940256099942544/2247696110",
+    "nativeid" : "ca-app-pub-",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
