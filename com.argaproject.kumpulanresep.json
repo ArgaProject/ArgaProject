@@ -5,8 +5,8 @@
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
-	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 	
 	"mode list pengaturan iklan" :
 	" 
@@ -49,9 +49,9 @@
     "mopub_native" : "Jangan Dipakai dulu - error library",
 
 
-    "bannerid" : "ca-app-pub-3940256099942544/6300978111",
-    "interid" : "ca-app-pub-3940256099942544/1033173712",
-    "nativeid" : "ca-app-pub-8372984800729914/1253489578",
+    "bannerid" : "ca-app-pub-8372984800729914/1344595706",
+    "interid" : "ca-app-pub-8372984800729914/2386408155,
+    "nativeid" : "ca-app-pub-8372984800729914/2834320084",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
