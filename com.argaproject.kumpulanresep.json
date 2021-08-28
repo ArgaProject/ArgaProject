@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "https://argaproject-kumpulanresep.blogspot.com/",
+    "url_utama" : "https://argaproject-kumpulanresep.blogspot.com/?view=sidebar",
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
@@ -21,7 +21,7 @@
 	"pengaturan_iklan_inter": "1",
 	"pengaturan_iklan_native": "1",
 	
-    "inter_count" : 5,
+    "inter_count" : 4,
 
     "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
