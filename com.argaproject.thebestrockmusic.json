@@ -1,7 +1,7 @@
 {
   "redirect" : [ {
 
-    "url_utama" : "file:///android_asset/music/playlist.html",
+    "url_utama" : "file:///android_asset/music/VanHalen.html",
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
