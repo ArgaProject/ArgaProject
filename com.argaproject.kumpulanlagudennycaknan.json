@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://argaproject-kumpulandangdutambyar.blogspot.com/",
+"HOMEURL" : "file:///android_asset/music/playlist.html",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . .to ambyar",
