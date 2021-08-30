@@ -1,10 +1,10 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://argaproject-kumpulandangdutambyar.blogspot.com/",
  
  // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . . . v19j13",
+"Json_popup_Wait" : "Server Ready . . .to ambyar",
 
 
 "MODE_NO_ADS" : true,
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-8372984800729914/2901305671",
+"ADMOB_INTER" : "ca-app-pub-8372984800729914/6648978990",
+"ADMOB_NATIV" : "ca-app-pub-8372984800729914/7168671983",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
