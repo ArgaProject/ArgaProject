@@ -25,7 +25,7 @@
 "enable_strap" : false,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -61,11 +61,11 @@
 "Button_Share" : "Bagikan Ke Teman",
 "Button_Start" : "Mulai",
 
-"exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
-"rate_button" : "Rating 5 Bintang",
-"later_button" : "Rating Nanti",
+"exit_popup_dialog" : "Please rate us 5 star. So we would be pleased to present this app more better for you.",
+"rate_button" : "5 Star Rating",
+"later_button" : "Rate Later",
 "enable_Share_button" : true,
-"Share_TXT" : "Aplikasi Keren banget, aku udah nyobain, coba download juga pasti kamu juga seneng ",
+"Share_TXT" : "cool apps, I just download",
 "more_button" : "Share Via WhatsApp",
 "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
 
