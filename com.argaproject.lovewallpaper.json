@@ -57,7 +57,7 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"exit_popup_dialog" : "Please rate us 5 star. So we would be pleased to present this app more better for you :)",
 "rate_button" : "Rate 5 Stars",
 "later_button" : "Rate Later",
 "enable_Share_button" : true,
