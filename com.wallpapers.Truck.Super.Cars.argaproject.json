@@ -57,9 +57,9 @@
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
 "applovin_inters_id" : "YOUR_AD_UNIT_ID",
 
-"Button_Rating" : "Rating Sekarang",
-"Button_Share" : "Bagikan Ke Teman",
-"Button_Start" : "Mulai",
+"Button_Rating" : "RATE NOW",
+"Button_Share" : "SHARE",
+"Button_Start" : "START",
 
 "exit_popup_dialog" : "Please rate us 5 star. So we would be pleased to present this app more better for you.",
 "rate_button" : "Rate 5 Star",
