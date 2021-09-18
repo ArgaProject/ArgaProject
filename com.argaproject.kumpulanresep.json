@@ -26,7 +26,7 @@
     "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
     "enable_strap" : true,
-    "enable_strap_Splah" : false,
+    "enable_strap_Splah" : true,
     "ads_on_exit_dialog" : true,
 
 
