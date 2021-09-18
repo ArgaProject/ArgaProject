@@ -5,7 +5,7 @@
 
 	"json_popup_wait" : "Server Ready . . . .",
 	
-	"mode_no_ads" : true,
+	"mode_no_ads" : false,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 	
 	"mode list pengaturan iklan" :
@@ -18,15 +18,15 @@
 	",
 	
 	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "4",
+	"pengaturan_iklan_inter": "1",
 	"pengaturan_iklan_native": "1",
 	
-    "inter_count" : 5,
+    "inter_count" : 4,
 
     "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
     "enable_strap" : true,
-    "enable_strap_Splah" : true,
+    "enable_strap_Splah" : false,
     "ads_on_exit_dialog" : true,
 
 
