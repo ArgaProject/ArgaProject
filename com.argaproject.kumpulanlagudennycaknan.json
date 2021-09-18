@@ -30,10 +30,10 @@
 "ads_on_exit_dialog" : false,
 
 "Mode_offline_mp3" : false,
-"Enable_Sticky_Notification" : true,
+"Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "false",
+"STARAPPID" : false,
 
 "ADMOB_BANNER" : "ca-app-pub-8372984800729914/2901305671",
 "ADMOB_INTER" : "ca-app-pub-8372984800729914/6648978990",
@@ -55,11 +55,11 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "flase",
-"UNITY_TEST_MODE" : "false",
+"UNITY_GAME_ID" : false,
+"UNITY_TEST_MODE" : false,
 
-"APPLOVIN_BANNER_ID" : "false",
-"APPLOVIN_INTERSTITIAL_ID" : "false",
+"APPLOVIN_BANNER_ID" : false,
+"APPLOVIN_INTERSTITIAL_ID" : false,
 
 "Button_Start" : "START",
 "Button_Share" : "SHARE TO FRIEND",
