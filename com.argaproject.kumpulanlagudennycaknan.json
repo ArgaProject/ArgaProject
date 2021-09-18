@@ -53,13 +53,13 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "flase",
-"UNITY_INTERSTITIAL" : "flase",
-"UNITY_GAME_ID" : "flase",
-"UNITY_TEST_MODE" : false,
-
-"APPLOVIN_BANNER_ID" : "flase",
-"APPLOVIN_INTERSTITIAL_ID" : "flase",
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "4045251",
+"UNITY_TEST_MODE" : "true",
+ 
+"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
 
 "Button_Start" : "START",
 "Button_Share" : "SHARE TO FRIEND",
