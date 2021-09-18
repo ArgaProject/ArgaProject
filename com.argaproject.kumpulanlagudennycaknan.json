@@ -53,8 +53,8 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_BANNER" : "false",
+"UNITY_INTERSTITIAL" : "false",
 "UNITY_GAME_ID" : false,
 "UNITY_TEST_MODE" : false,
 
