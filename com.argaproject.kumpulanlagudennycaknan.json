@@ -8,7 +8,7 @@
 
 
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL_UNITY" : false,
 
 
 // mode pengaturan iklan
@@ -53,8 +53,8 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "false",
-"UNITY_INTERSTITIAL" : "false",
+"UNITY_BANNER" : false,
+"UNITY_INTERSTITIAL" : false,
 "UNITY_GAME_ID" : false,
 "UNITY_TEST_MODE" : false,
 
