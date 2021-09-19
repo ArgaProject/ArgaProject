@@ -6,7 +6,7 @@
 	"json_popup_wait" : "Server Ready . . . .",
 	
 	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 	
 	"mode list pengaturan iklan" :
 	" 
@@ -24,9 +24,9 @@
     "inter_count" : 4,
 
     "mode_offline_mp3" : true,
-	"enable_sticky_notification" : true,
+	"enable_sticky_notification" : false,
     "enable_strap" : true,
-    "enable_strap_Splah" : true,
+    "enable_strap_Splah" : false,
     "ads_on_exit_dialog" : true,
 
 
