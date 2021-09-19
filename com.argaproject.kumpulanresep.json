@@ -17,9 +17,9 @@
 	4 Appodeal
 	",
 	
-	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "",
+	"pengaturan_iklan_banner": "admob",
+	"pengaturan_iklan_inter": "admob",
+	"pengaturan_iklan_native": "admob",
 	
     "inter_count" : 4,
 
