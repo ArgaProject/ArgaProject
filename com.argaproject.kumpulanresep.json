@@ -19,7 +19,7 @@
 	
 	"pengaturan_iklan_banner": "1",
 	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_native": "",
 	
     "inter_count" : 4,
 
@@ -49,9 +49,9 @@
     "mopub_native" : "Jangan Dipakai dulu - error library",
 
 
-    "bannerid" : "ca-app-pub-8372984800729914~6788494071",
-    "interid" : "ca-app-pub-8372984800729914/1344595706,
-    "nativeid" : "ca-app-pub-8372984800729914/2386408155",
+    "bannerid" : "ca-app-pub-8372984800729914/1344595706",
+    "interid" : "ca-app-pub-8372984800729914/2386408155,
+    "nativeid" : "ca-app-pub-8372984800729914/",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
