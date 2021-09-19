@@ -6,7 +6,7 @@
 	"json_popup_wait" : "Server Ready . . . .",
 	
 	"mode_no_ads" : false,
-	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 	
 	"mode list pengaturan iklan" :
 	" 
@@ -17,9 +17,9 @@
 	4 Appodeal
 	",
 	
-	"pengaturan_iklan_banner": "admob",
-	"pengaturan_iklan_inter": "admob",
-	"pengaturan_iklan_native": "admob",
+	"pengaturan_iklan_banner": "1",
+	"pengaturan_iklan_inter": "1",
+	"pengaturan_iklan_native": "1",
 	
     "inter_count" : 4,
 
@@ -50,8 +50,8 @@
 
 
     "bannerid" : "ca-app-pub-8372984800729914/1344595706",
-    "interid" : "ca-app-pub-8372984800729914/2386408155,
-    "nativeid" : "ca-app-pub-8372984800729914/",
+    "interid" : "ca-app-pub-8372984800729914/2386408155",
+    "nativeid" : "ca-app-pub-8372984800729914/2834320084",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
