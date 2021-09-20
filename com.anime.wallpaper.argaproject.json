@@ -20,17 +20,17 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 4,
+"inter_count" : 5,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "208724611",
 
 "admob_banner" : "ca-app-pub-8372984800729914/3595982817",
 "admob_inter" : "ca-app-pub-8372984800729914/6723056648",
