@@ -1,0 +1,28 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Romantic Anime Wallpaper",
+      "image":"file:///android-asset/icon_animewallpaper.png",
+      "link":"https://play.google.com/store/apps/details?id=com.anime.wallpaper.argaproject"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper Gaming Ultra HD 4K",
+      "image":"file:///android-asset/icon_gammingwallpaper.png",
+      "link":"https://play.google.com/store/apps/details?id=com.ArgaProject.kumpulanwallpaper"
+    },
+    {
+      "id":3,
+      "title":"SuperCars Wallpaper HD",
+      "image":"file:///android-asset/icon_SuperCarswallpaper.png",
+      "link":"https://play.google.com/store/apps/details?id=com.wallpapers.Truck.Super.Cars.argaproject"
+    },
+    {"id":4,
+      "title":"Wallpaper Love Cute",
+      "image":"file:///android-asset/icon_WallpaperLove.png",
+      "link":"https://play.google.com/store/apps/details?id=com.argaproject.lovewallpaper"
+    }
+  ]
+}
