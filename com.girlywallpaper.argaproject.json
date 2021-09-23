@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "404848419848",
+    "firebase_url": "https://arga-project.firebaseio.com",
+    "project_id": "arga-project",
+    "storage_bucket": "arga-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404848419848:android:11c3cc5f9afd836addddbd",
+        "android_client_info": {
+          "package_name": "com.girlywallpaper.argaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404848419848-rabp1idbu5dpi2m6oqmqn1oaisaimgd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHUCMjl-XSMLvA9fod8StlINnj-HHNDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404848419848-rabp1idbu5dpi2m6oqmqn1oaisaimgd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8372984800729914~8845337858"
+    }
+  ],
+  "configuration_version": "1"
+}
