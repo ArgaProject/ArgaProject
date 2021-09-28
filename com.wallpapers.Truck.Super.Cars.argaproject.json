@@ -23,7 +23,7 @@
 "inter_count" : 5,
 
 "enable_strap" : true,
-"enable_strap_Splah" : false,
+"enable_strap_Splah" : true,
 
 "ads_on_exit_dialog" : false,
 
