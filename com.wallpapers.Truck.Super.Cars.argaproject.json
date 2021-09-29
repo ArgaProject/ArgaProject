@@ -23,7 +23,7 @@
 "inter_count" : 10,
 
 "enable_strap" : true,
-"enable_strap_Splah" : true,
+"enable_strap_Splah" : false,
 
 "ads_on_exit_dialog" : false,
 
@@ -34,7 +34,7 @@
 
 "admob_banner" : "",
 "admob_inter" : "ca-app-pub-8372984800729914/9289316717",
-"admob_native" : "ca-app-pub-8372984800729914/2422663641",
+"admob_native" : "",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
