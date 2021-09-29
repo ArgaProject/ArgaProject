@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 5,
+"inter_count" : 10,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
@@ -32,7 +32,7 @@
 
 "startapp" : "208779637",
 
-"admob_banner" : "ca-app-pub-8372984800729914/7833938270",
+"admob_banner" : "",
 "admob_inter" : "ca-app-pub-8372984800729914/9289316717",
 "admob_native" : "ca-app-pub-8372984800729914/2422663641",
 
