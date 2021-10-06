@@ -51,11 +51,11 @@
 
 "unity_banner_id" : "banner",
 "unity_inters_id" : "interstitial",
-"unity_id" : 4383595,
+"unity_id" : 4383603,
 "unity_test" : false,
 
-"applovin_banner_id" : "YOUR_AD_UNIT_ID",
-"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+"applovin_banner_id" : "2ec4337abe94a2d7",
+"applovin_inters_id" : "4681ae01505b952a",
 
 "Button_Rating" : "RATE NOW",
 "Button_Share" : "SHARE NOW",
