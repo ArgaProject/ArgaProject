@@ -17,8 +17,8 @@
 //  Iklan native hanya bisa admob fan appodel
 
 "pengaturan_iklan_banner" : "APPLOVIN",
-"pengaturan_iklan_inter" : "UNITY",
-"pengaturan_iklan_native" : "ADMOB",
+"pengaturan_iklan_inter" : "ADMOB",
+"pengaturan_iklan_native" : "UNITY",
 
 "inter_count" : 8,
 
@@ -34,7 +34,7 @@
 
 "admob_banner" : "",
 "admob_inter" : "ca-app-pub-8372984800729914/7992812846",
-"admob_native" : "ca-app-pub-8372984800729914/1960066587",
+"admob_native" : "",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
