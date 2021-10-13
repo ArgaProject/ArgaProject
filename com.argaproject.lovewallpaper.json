@@ -20,7 +20,7 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "pengaturan_iklan_inter" : "1",
 "pengaturan_iklan_native" : "4",
 
-"inter_count" : 8,
+"inter_count" : 20,
 
 "enable_strap" : true,
 "enable_strap_Splah" : true,
