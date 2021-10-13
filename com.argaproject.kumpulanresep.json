@@ -17,11 +17,11 @@
 	4 Appodeal
 	",
 	
-	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_banner": "2",
+	"pengaturan_iklan_inter": "2",
+	"pengaturan_iklan_native": "2",
 	
-    "inter_count" : 4,
+    "inter_count" : 20,
 
     "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
@@ -49,9 +49,9 @@
     "mopub_native" : "Jangan Dipakai dulu - error library",
 
 
-    "bannerid" : "ca-app-pub-8372984800729914/1344595706",
-    "interid" : "ca-app-pub-8372984800729914/2386408155",
-    "nativeid" : "ca-app-pub-8372984800729914/2834320084",
+    "bannerid" : "",
+    "interid" : "",
+    "nativeid" : "",
  
     
 	"fan_banner" : "YOUR_PLACEMENT_ID",
