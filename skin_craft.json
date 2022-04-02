@@ -100,7 +100,6 @@
       "skin_url":"https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
       "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
     },
-
     {
       "id":10,
       "name_skin":"Superman",
@@ -134,26 +133,6 @@
       "name_skin":"Huggy Wuggy",
       "skin_url":"https://lh3.googleusercontent.com/R-uU3FNT2aAr9hi5coGvR4HEkcP3e4NuuCl3DhZuH6Ppl9_Pb6pNmlJ6OSB8GbNHp0Lar3X7qQemMFq5eOor9RkgHaveZNKHOni_",
       "view_skin":"https://lh3.googleusercontent.com/CMXYecKRnnMeHmCj_pLf9NdyfAfoU0-YIxL4TO594acB280tmmX7qk_oKuaMz32ue3puYE6jL81d3CAbIrFYWQ6jzYBdphMX9zyG"
-    },
-    { "id":"1",
-      "name_skin":"test1",
-      "skin_url":"https://lh3.googleusercontent.com/MT8P8hboSt0SxaHwYGy-hxoMfKl4lAuUQcQCKKszJqsHyIRA0TjImrKrGPznn52v00URNqvwaHketXjRGrjnvw",
-      "view_skin":"https://lh3.googleusercontent.com/4x6o_R25voP5twr8D8gVlPvb8bTwQuvYevPw-qRcPnzjFgdBgpHoFojk4uFMCiVoXN5WVSR5qSmQTcZ6FdbFPg"
-    },
-    { "id":"1",
-      "name_skin":"test1",
-      "skin_url":"https://lh3.googleusercontent.com/klE4B6-ZysCYDq4SK-Ed1el-Fv3vZKzpzk3EdWR5fKdzX5KY8PRCFLbBdkp8YKPN5Gy3qzwW_Ec1fNFWBJ7clw",
-      "view_skin":"https://lh3.googleusercontent.com/ba0YRECOrsuAOsv_x9vyLZ28lfpkZ8JpsHYNWYoc_Ci4JqXOHsIxpay8IpwhNgCGf9lPr8j4YIVExANbRAiRmA"
-    },
-    { "id":"1",
-      "name_skin":"test1",
-      "skin_url":"https://lh3.googleusercontent.com/IaKQAvykUw6IhdIpLiHm_zuo8nvU-qySFg7UIEv0euHeBuZm4od03WYh9w6RoAyzU7LmCy6HnQvbo4SyJNJx",
-      "view_skin":"https://lh3.googleusercontent.com/RiQXNnoOpQHL4ogPRPRnkhkMt_HsRYeVgYJSMQorLVbVlvIliCZwv1_YPQm07M-7BsOQRn-i_Wv-Om7skEx6zw"
-    },
-    { "id":"1",
-      "name_skin":"test1",
-      "skin_url":"https://lh3.googleusercontent.com/xc9momCh6TVZISU10pXN8L1NTekVEYbBjT12fzgDtxyEQgNNtqM3Ps9wVI-VASL0SMiQGHOhk0ILG7W_2XeNOQ",
-      "view_skin":"https://lh3.googleusercontent.com/doVoKThJwj5bxi5-1LceIn4fU9m_qRwxGr9jqOxnqyjCvxIxWC5B-dvRamXViu4IhDMJcQve-UOnCpqsrA9y"
     }
   ],
   "Addons":
