@@ -1,15 +1,15 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "",
-      "main_ads_banner": "",
-      "main_ads_intertitial": "",
-      "backup_ads_banner": "",
-      "backup_ads_intertitial": "",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "ADMOB",
+      "main_ads_banner": "1975669e51c08c47",
+      "main_ads_intertitial": "870ad677230159bb",
+      "backup_ads_banner": "ca-app-pub-8372984800729914/5807851524",
+      "backup_ads_intertitial": "ca-app-pub-8372984800729914/4494769851",
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
-      "interstitial_counter": "3",
+      "interstitial_counter": "4",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
