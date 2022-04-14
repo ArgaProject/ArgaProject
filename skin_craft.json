@@ -77,7 +77,7 @@
     },
     {
       "id":6,
-      "name_skin":"Captain Amerika",
+      "name_skin":"Captain America",
       "skin_url":"https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
       "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
     },
@@ -207,6 +207,106 @@
       "name_skin":"Black Bunny Girl",
       "skin_url":"https://lh3.googleusercontent.com/8BpJ0BnSyfePeRST2kvv5JS4y8lSLPEoAyrPL2k8itGZMX0OQIFkfLXke5lQqz7LDGg33U3DcCP_9RskSQHXy70  ",
       "view_skin":"https://lh3.googleusercontent.com/uet2ecRnFPee25uPtyWfri0KPA19lYBTaqdA5vzhrMTedvP8dGvCUb8vGS-Wdtj0lVJ47u4M_uYJlZnm4ebAvg"
+    },
+    {"id":31,
+      "name_skin":"CooL Boy Black Hoodie",
+      "skin_url":"https://lh3.googleusercontent.com/9qdY-98PPIPVBDX5CBMJfDFLNYCAk--orRw0xd540FT9ZU4ojpzzBEJmRa8LNECsR3tWKVyhCKuYX3-VlqCV7y4wVZSnjWDkMA",
+      "view_skin":"https://lh3.googleusercontent.com/igP6X3Juet9Z40tiyUbcAGDhOpfN20qv75GICklVgLhk6gnPe4E3SdwWe0BwRES16oijumfB5ngR55r1W9RxtmW0DGw9VBkavQ"
+    },
+    {"id":32,
+      "name_skin":"Akatsuki Sasuke",
+      "skin_url":"https://lh3.googleusercontent.com/ywQDLdIgFB0f2Ko0pd8zF_HWT_yj2X0L9sDLFIyze4eT1igWLEjfZritG7YQTSqupzyibwXQ1YxApnIYbvwwOAxCxcleVfxD2iRv",
+      "view_skin":"https://lh3.googleusercontent.com/g4FKAoQgj3-FgD5uYD_rteAlOwfnzuZmCF63DTF7W8DtXEBTSHdspNm5QoqUTCHIEEekC9XpIab7HzoHcgdGEUFHVDE0R8PIAHw"
+    },
+    {"id":33,
+      "name_skin":"Itachi Akatsuki",
+      "skin_url":"https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+      "view_skin":"https://lh3.googleusercontent.com/LxoJ94nSsEIfyxC_yxNYke3B85SNt3iGSqbGkdmbWdt5CftQcKkStnFkB5AZVsXlYat4yQqK37ZoTPFjJgHJ"      
+    },
+    {"id":34,
+      "name_skin":"Monshiiee Herobrine",
+      "skin_url":"https://lh3.googleusercontent.com/bKI6vWtwqVHjaipDetplepyq7Qzj4zWCiGfYBKLsDx2i-Pl5ay3uXXdcjO1t4z931QKK4eSJ1etP4MFgaH4vGg",
+      "view_skin":"https://lh3.googleusercontent.com/J5Ynjop0KoFG9AiOcmVTN2MzCvG6cS1JqwgplRCleR2a1c7togWBRVpmAM_kNR6s-bDbDuonpQisGvgIbVUE"
+    },
+    {"id":35,
+      "name_skin":"Panda",
+      "skin_url":"https://lh3.googleusercontent.com/wV2BHimPnZfiDmQapup7xsekB5Rk7dDEqGQAr7Jgo7FPT3UtuS4tYOlSv4-GNsS0FX1e4WjgNujgz9O-0U0f6cU",
+      "view_skin":"https://lh3.googleusercontent.com/hIadSwMzHYHda-OLkuOkFY61vlz561d4iv2w8HrKpwXEBRNS4iyFjEyZs_zcb-ckvV_zWHaAjmGHz_3Kpr7TUA"
+    },
+    {"id":36,
+      "name_skin":"Alok FF 1",
+      "skin_url":"https://lh3.googleusercontent.com/bTZrQSUdUoiXHrQjnzu5uzBRc1j2olyilQehXbcfVo1v-yv5UtpRKDmSH3jnDEgC2ACj6EiYKT-qMAEQTS5QUg",
+      "view_skin":"https://lh3.googleusercontent.com/pvgB4L0QX1lV6fwf6cZoDgFEKg8Tbbv7I7RHs1Y6US8v0GmUyq3v728Ib206CspJevo6Dbg-QhNP3JRI_Dsz"      
+    },
+    {"id":37,
+      "name_skin":"Alok FF 2",
+      "skin_url":"https://lh3.googleusercontent.com/tAYiNdeHzZz5sKBIG_Ze1fAMq6T6scpAMUVr0cWuLcLDJqEbeks3bG1QseITqoh4aevDgYkJ-1NIUAXmewhe",
+      "view_skin":"https://lh3.googleusercontent.com/h4WOuPy8u0sAWKjF8pQoGzk08VMY90YmkdxysX2IkbyAjCiweaSpGvBQZDq3lxAIPPf-TsapXfb-q_8BC7Xg"
+    },
+    {"id":38,
+      "name_skin":"Herobrine Fire Cool",
+      "skin_url":"https://lh3.googleusercontent.com/rcQ4E-FN5xPnk_h8fs4wRO9nkh-A7XMvCLhIutaFZj5VPrBvwdPJG8rL9I5VpWmjyyzkJXJL2VzbAeMB_wla-fg",
+      "view_skin":"https://lh3.googleusercontent.com/gpUnMZG_WQAQkEqg3WdDB7fRK9mk12PKW0g1sIZYqf-A97iPNcyjfNpuCYVM81LaCbklNT0f5TekxNmhXAFL6A"
+    },
+    {"id":39,
+      "name_skin":"Sakura FF",
+      "skin_url":"https://lh3.googleusercontent.com/tOBZtTPlisKG0tYcas93TmjpKeJgpDuMv5jYZudDMylZNP01Fq31Wx70d7uRbYS4U4cY_TCeFRu6STd7hhDs",
+      "view_skin":"https://lh3.googleusercontent.com/sYOKARvmvTA6LCbT44CPwe3zIpemVqgc7qgxLjyLQLnJVjmYvs0kPh60uD_Z1q_iwUeogxGG_KqLx408aq2qJcyyHdCobLvyQu4"
+    },
+    {"id":40,
+      "name_skin":"Hayato FF",
+      "skin_url":"https://lh3.googleusercontent.com/csreTX4fwVi0ULIDHUYAkLsreL2R8GtqXw2oi7-xxwcQK956SrRPcydluNscNz5ocD7HfUmRrV03ICLeG_KZiQ",
+      "view_skin":"https://lh3.googleusercontent.com/O5hmt4H5_eaO2IHSI5C2B0D2rsIhjB7CEYD7cg3v7Dfd4p3QyqYS0M_6tyQcZPktq53vxoc3ofILwSSPd5Tc9g"
+    },
+    {"id":41,
+      "name_skin":"Naruto Hokage",
+      "skin_url":"https://lh3.googleusercontent.com/FHF7yTmfRl8KdZEebLdmO1Cp8MAW3v4uzWkSg7gkoxgEaM4rNRcgV72ADcSN0ILZkWVh84bI8w2BRftaEwbrEIA",
+      "view_skin":"https://lh3.googleusercontent.com/BfXFtxLUxe3-HqEzECXOrQN8rM22rPQvCz_-VW-x4OPS36umqUL2fhzIOsA1a7gTLlAQqA27my94ppK2VDnY"
+    },
+    {"id":42,
+      "name_skin":"Kakashi",
+      "skin_url":"https://lh3.googleusercontent.com/giaNEjI_H1Aq0C2RMSsxNoYhUoqqk4NrSQBb6PFTs-UHGLfNc89bmB0IBXmLhAjPAB8eiyQ-QeXFQdY4tueO",
+      "view_skin":"https://lh3.googleusercontent.com/roJnnjBUElRhDcZVraY_qnwcrtu3sib9xeUUTnX1MjvTQswhl8B2knFPyEbRcuBEU8-M2TM5fc9-r28OfRcOzw"
+    },
+    {"id":43,
+      "name_skin":"Captain America 2",
+      "skin_url":"https://lh3.googleusercontent.com/jQxXKw_rSaThLiIDP65So3qrWS1zGFFBspBcJr7SjY49REWiBJPQd_cVAdAeteJzOLRMi6TTIvUtNLeSVu-FenK98b6rIbc__v0",
+      "view_skin":"https://lh3.googleusercontent.com/7VgABBwmdQ8scsGN_EqiUdX9A2sI5jvJvBRSOpKluli2Vk2Wx5F_AIJXd0jYT0b5fSrPl0zjtIKcJ7Q_XPQ-enuXAP8vCM0Cuw"
+    },
+    {"id":44,
+      "name_skin":"Baixar",
+      "skin_url":"https://lh3.googleusercontent.com/mqKfPmgHBxmFx-zej7Qo9ACo12KaPpEgoweVYjfa3KcUvmzxoUg0N4-uecxSg3ZAyUrdZcR5CKdxW1brTMdPOQ",
+      "view_skin":"https://lh3.googleusercontent.com/K5Q7GqK61T52Hoem9SUfnEJ0r8vVgVeyMq8ZJXvLVG6HuyDMZAjiRqmRwzHQ6Zh18rdNUzKxhjwhEcyO0t1A"
+    },
+    {"id":45,
+      "name_skin":"Boruto",
+      "skin_url":"https://lh3.googleusercontent.com/3veDCeUe15dVLJ4C76V-sD4QSNghiDV0Ea8SlkBz_zuEGEjO_fds27Uk_rglPYVpH8GavqjS9FzPecFH5vwYf_Y",
+      "view_skin":"https://lh3.googleusercontent.com/_8b0hy5x103dPP49UB67UFL1KzY8a2nLGf8grtQa4aKCQEL5AOJg0E0HH1dRNqTcrJo1OlrdSsHQxL0FAB34uQ"
+    },
+    {"id":46,
+      "name_skin":"Goku Dragon Ball",
+      "skin_url":"https://lh3.googleusercontent.com/wBtGKl5gSIWFZBs-iWHkzxFBOyqP9LdD-oFRw8sNPOvz8j5OeJhMLEMrmKuOkhseFo8GO03gOiIVQ-hwt1vf",
+      "view_skin":"https://lh3.googleusercontent.com/AOx2-HlPvKZemF8lLuZ-vx3RtsFWQr7j2q1asEW2ylVapNEZEWq90j4qrgZ--m0xdVN3K9MYh0DSYnu_loNBNmY"
+    },
+    {"id":47,
+      "name_skin":"Boy",
+      "skin_url":"https://lh3.googleusercontent.com/qs5AgkNO-dRQ2d3BNVZZArhcgPZWSpdhB1gw3A-Rd2IjphvkJKlHEx1K1bN_KeUrIOMuW2upRcFIdK15vqRu74s",
+      "view_skin":"https://lh3.googleusercontent.com/KNgp5PuX7-QmlXiL-8CIGryYr1iJ46mDRDjp1NNrjiL72ir3quitkf6jFltMHi-OPAGdCQucYPxZzCIUeEzG"
+    },
+    {"id":48,
+      "name_skin":"Robot",
+      "skin_url":"https://lh3.googleusercontent.com/3-hXY0n2kpzHSVtk4eQhbmffqBizboXbNuINkT1ag9tpI6Pl4-UzvehDrznlMJ75bY-6xPoX09nO6TQ9RbahzA",
+      "view_skin":"https://lh3.googleusercontent.com/osM2Zaf3hKwHGjmCqd3akviRRiY8M_RDHoCUdiNjwLaFcxzKO_lg_s7s6x03yGpDZQwo0vFZRsBACI0vma2G"
+    },
+    {"id":49,
+      "name_skin":"Superior Iron Man",
+      "skin_url":"https://lh3.googleusercontent.com/mSGKtNtEgJCJiHotJFBtarOy_ndRMmp9yAA_v7mNHFKNRB_JySNThenONf9sVCY8uKK-XbylWDmTyYMUxfLHX_wMqrWaXNAQBVc",
+      "view_skin":"https://lh3.googleusercontent.com/Z3oWBpmIsQZ7fFsOYVKeInszI9b-d284Q5uDrBe0cCmSbEFjNpb5P5P8-95yQSmQNn9jjqSHjv07-LI2zY0-qWkIzmTq5KYqGWrV"
+    },
+    {"id":50,
+      "name_skin":"The Sentry",
+      "skin_url":"https://lh3.googleusercontent.com/rqg4MUrv-5pm8kawZqodiRRrK-d13Jb_0r-MYwUp5j6ZyuVrP9r9ticpAZjn5P69mjSjmMvNX9yis7Y-KK-IfFBJbnwHA-Yqx3A-",
+      "view_skin":"https://lh3.googleusercontent.com/qWHcpZt-tfLUWbvhJF8-MsSPSq0tieGlkHafpJSQ1XyK3BcCU8wdnybE_9-AVOvFWGJKRd-6iDeHcKGNOJOa16Jg1Af5K07jCFs"
     }
   ],
   "Addons":
