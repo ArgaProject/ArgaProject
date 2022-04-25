@@ -383,8 +383,8 @@
     {
       "id":57,
       "name_skin":"HD cat girl",
-      "skin_url":"https://lh3.googleusercontent.com/-Hl3dCkC79scwQwfiHGl4QnfERBfdoKevz624LzfIYqqjHm7ehw-f8jbYw2mzOqXT4F762ZDyVVTJ2brZ6y5mw",
-      "view_skin":"https://lh3.googleusercontent.com/-NiJv4MEj-ZlmxLqW-qXS6RWxPpOdr5_iLDLygItID-EoPQSDOy63YN7R838wTzyWECCJV_1Zu6-63NQeYEOEg"
+      "skin_url":"https://lh3.googleusercontent.com/6YvOOm82omtXyUzbns_5WGVSTTJYPlF_33qRRKnZCDtftVGulR9P_zF3svllqEZfnNiCakzCUYX8qU7RqGz7Nw",
+      "view_skin":"https://lh3.googleusercontent.com/cu0CGY_F-pNHFYpDAd98x7h2ryhBGBxPkONi-csrzqW5BYDuzUAQrGh80EgPRRrEStR2i_Jcem5y4RaGh3E23Q"
     },
     {
      "id":58,
@@ -613,6 +613,54 @@
       "name_skin":"Luffy One Piece",
       "skin_url":"https://lh3.googleusercontent.com/78gCpezjHGkPGIod4hQ0uliZ6PIiPUfw-r2oqS4RYqA1a86psk5qFJakhp_e6RMnbCfkt2SK0Q2StKVAwzUK",
       "view_skin":"https://lh3.googleusercontent.com/RWsZipbf6tfIdqDdgRrF8ojAj13xI1T06yDM9f_uNz92XPgu_2cst1x4ghr9TbjdHWUUOzd1QGXldaJmIpayHRA"
+    },
+    {
+      "id":96,
+      "name_skin":"3D Enderman",
+      "skin_url":"https://lh3.googleusercontent.com/jjP9L8Bw3sjbGr8iaHmjXPXlEjvzdJVj7iZNkdXKT_1CeZohNFjtb9phzR00e_AB9qMTpRCTY1XkLA2O21El",
+      "view_skin":"https://lh3.googleusercontent.com/MzUYPTdqc7MZxeDbPH3EdKPmHz_eBV3Qf105KNhpcwtMw3gg2opapTZGEhxOZxXliFdl8zPZJNy0GUldDFWlOA"
+    },
+    {
+      "id":97,
+      "name_skin":"Demon Girl",
+      "skin_url":"https://lh3.googleusercontent.com/YVOnuSg0GLe3bUplDSc6cuhbOr7-dax7mGlWe6OHTG_zyFm6TM6O_DIP_4k746dC0ADoH1MDIVqPOS7OVK9hoQ",
+      "view_skin":"https://lh3.googleusercontent.com/5yZK34DSlPnfW9A2NwcOkcxc8ZLoZpCBaDg_CiZaUJI1US2UTCJZ9Njk4Qe5DNnWmarfZv9jWSsm6HrsrVdqRA"
+    },
+    {
+      "id":98,
+      "name_skin":"Cute Galaxy Girl",
+      "skin_url":"https://lh3.googleusercontent.com/9-SFJRHE06Bmw332SHPAjkEBXhgbnRlSc8Z_Hc2VPaPnzFRxfjQPUJCUrFBe0kSdYQv9IrgsYS3wIe_ZVhnaqw",
+      "view_skin":"https://lh3.googleusercontent.com/q_aORNxfS-m4EAVqZn2LKBiXYEuTvKYyQXsV4eR7TzU4YSpVmsWpI6qNwa9Ulb6QP_qRkD-frCRLhszOpWig"
+    },
+    {
+      "id":99,
+      "name_skin":"Party Girl",
+      "skin_url":"https://lh3.googleusercontent.com/dAZvSrar90uuTsaA6GioMADUMEEIfJRS6PHxBMxqaEYIrlpPz3TVhEfCiUYGd_nro7wRI7Ls8DPgAqE0Nw3QHg",
+      "view_skin":"https://lh3.googleusercontent.com/D_rhqb62qUvPJMgpezv9exE8dSGZcPpyEmWP16_H6Mok7mv_v6u9u7VYYaHHF3oF0j3DiDIgPkjhEI-0lw-G_A"
+    },
+    {
+      "id":100,
+      "name_skin":"Hinata Hyuga",
+      "skin_url":"https://lh3.googleusercontent.com/OHizgkHFonxkZhIaL2ZkJsE3T71sPX0X01ohGR1iCHOz-u23XI-hwQE40lfwwrDN1FyEf5eQ7UpUAIypwtj0dz5BwVdOKVSo2A",
+      "view_skin":"https://lh3.googleusercontent.com/S-rhSl4wypgao_fxmm_JWwVo22VC2gCJoaAV7i3GZpOTsWWAkA5Nm6STbnYMtrrUlYO6AvyO2r9s_Z4XcdH_50ciz6JJBeTbjJ4"
+    },
+    {
+      "id":101,
+      "name_skin":"Cute Anime Girl",
+      "skin_url":"https://lh3.googleusercontent.com/VbFokDnU9X1kN1AlmwaOVmZK2Ee5DUsowHxBoJi8qSYt4SsFiW-2wQCsR70IDu-mSZ7fDLp7rsMDL7TSNR2Cqg",
+      "view_skin":"https://lh3.googleusercontent.com/upzzQzDFMjIHIry0LaVAfz5s8TZyLX-Q3hPpCtrspliLg5ZcmKWDY_zXqJ1NwgagIJzhv8UKHzqKoQLeEymOcA"
+    },
+    {
+      "id":102,
+      "name_skin":"Cute Glasses Girl",
+      "skin_url":"https://lh3.googleusercontent.com/WhJHx45Zgr3DFHQR_7b9MFo95P-hxWzEJ2hFMqjtEbJvByjb8R2jjZ63kvLydw9JbgtW1nlFpzc9RZwAWc1s",
+      "view_skin":"https://lh3.googleusercontent.com/Kp3HIRKhdr5GdoJlFrUaxvB95A3162bwIUrXcHlyPDU3-xyTn26hmeJD4j9gDv77r6EG4kWkUP9mx8qjdcUJiv4"
+    },
+    {
+      "id":103,
+      "name_skin":"Princess Amelia",
+      "skin_url":"https://lh3.googleusercontent.com/zqjS2DXczNJq7V8XHk6aoaLABzzR8gXaRCod_Oe2NXklabWVKWw920LI0OeTY7K42I4oVJCBbSaa9piTqectltY",
+      "view_skin":"https://lh3.googleusercontent.com/lE4QKj7N8q5zG1Lh9ggGGeMxI8udjPT6RE0BkXyoLj3rfnGS5wkurL5ja1iDXU12V5ZvBQBDDY21J9geSZvK"
     }
   ],
   "Addons":
