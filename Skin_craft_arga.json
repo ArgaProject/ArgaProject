@@ -908,6 +908,7 @@
       "skin_url":"https://lh3.googleusercontent.com/rAEpvVDtF1jQOmzyrwWuivkAINB4mSbKZY2LuC_iM23UrGFB_yCa0AvnmGO15S114nS9mnoQQTcsothC0PUS2Z3wd7XIyBvmlWl9",
       "view_skin":"https://lh3.googleusercontent.com/lFwG2zxcYRgU86XIBB9T29bEgybNLWw3a2-1VqH6jvyWVT0MEqph7H35mVTA8CWZcoWAGP6ZiyCT3S8IfvCXymROidKdS_Pftao"
     }
+    
   ],
   "Addons":
   [
@@ -937,6 +938,33 @@
       "addR_url":"https://argaputraproject.com/addons/Kimetsu/Kimetsu R.mcpack",
       "view_add":"https://argaputraproject.com/addons/Kimetsu/icon.png",
       "des_add":"https://argaputraproject.com/addons/Kimetsu/kimetsu.html"
+    },
+    {
+      "id":4,
+      "name_add":"Loled Furniture Season 3 (Part 2)",
+      "add_url":"https://argaputraproject.com/map/loledcity/LFSeason3.zip",
+      "addB_url":"https://argaputraproject.com/map/loledcity/LFPart2 B.mcpack",
+      "addR_url":"https://argaputraproject.com/map/loledcity/LFPart2 R.mcpack",
+      "view_add":"https://argaputraproject.com/map/loledcity/tampilan1.jpg",
+      "des_add":"https://argaputraproject.com/map/loledcity/loledaddon.html"
+    },
+    {
+      "id":5,
+      "name_add":"FNaF CRAFT Addon",
+      "add_url":"https://argaputraproject.com/addons/Fnaf/Fnaf.zip",
+      "addB_url":"https://argaputraproject.com/addons/Fnaf/Fnaf B.mcpack",
+      "addR_url":"https://argaputraproject.com/addons/Fnaf/Fnaf R.mcpack",
+      "view_add":"https://argaputraproject.com/addons/Fnaf/tampilan.jpg",
+      "des_add":"https://argaputraproject.com/addons/Fnaf/fnafaddon.html"
+    },
+    {
+      "id":6,
+      "name_add":"New Adventure Plus - Addon!",
+      "add_url":"https://argaputraproject.com/addons/adventure/Adventure.zip",
+      "addB_url":"https://argaputraproject.com/addons/adventure/AdventureB.mcpack",
+      "addR_url":"https://argaputraproject.com/addons/adventure/AdventureR.mcpack",
+      "view_add":"https://argaputraproject.com/addons/adventure/images/tampilan.jpg",
+      "des_add":"https://argaputraproject.com/addons/adventure/adventure.html"
     }
   ],
   "Maps":
@@ -961,6 +989,55 @@
       "map_url":"https://argaputraproject.com/map/apexlegend/apexlegend.zip",
       "view_map":"https://argaputraproject.com/map/apexlegend/apex1.png",
       "des_map":"https://argaputraproject.com/map/apexlegend/apex.html"
+    },
+    {
+      "id":4,
+      "name_map":"FNAF 2 Re-Creation Map",
+      "map_url":"https://argaputraproject.com/map/fnaf/FNAFMap.zip",
+      "view_map":"https://argaputraproject.com/map/fnaf/fnaf.jpg",
+      "des_map":"https://argaputraproject.com/map/fnaf/fnaf.html"
+    },
+    {
+      "id":5,
+      "name_map":"FNAF Re-Creation Textures",
+      "map_url":"https://argaputraproject.com/map/fnaf/FNAFTexture.zip",
+      "view_map":"https://argaputraproject.com/map/fnaf/fnaftexture.jpg",
+      "des_map":"https://argaputraproject.com/map/fnaf/textures.html"
+    },
+    {
+      "id":6,
+      "name_map":"Vanilla Shaders",
+      "map_url":"https://argaputraproject.com/Texture/vanila/VanillaShader.zip",
+      "view_map":"https://argaputraproject.com/Texture/vanila/vanilla.jpg",
+      "des_map":"https://argaputraproject.com/Texture/vanila/vanila.html"
+    },
+    {
+      "id":7,
+      "name_map":"Stranger Things - Hawkins Map",
+      "map_url":"https://argaputraproject.com/map/stranger/Strangermap.zip",
+      "view_map":"https://argaputraproject.com/map/stranger/stranger.jpg",
+      "des_map":"https://argaputraproject.com/map/stranger/stranger.html"
+    },
+    {
+      "id":8,
+      "name_map":"Jurassic Island A New Kingdom",
+      "map_url":"https://argaputraproject.com/map/jurasic/Jurasicisland.zip",
+      "view_map":"https://argaputraproject.com/map/jurasic/jurasic.jpg",
+      "des_map":"https://argaputraproject.com/map/jurasic/jurasic.html"
+    },
+    {
+      "id":9,
+      "name_map":"Jurassic Island - JAVA Version",
+      "map_url":"https://argaputraproject.com/map/jurasic/JurasicIslandJava.zip",
+      "view_map":"https://argaputraproject.com/map/jurasic/jurasicc.jpg",
+      "des_map":"https://argaputraproject.com/map/jurasic/jurasic.html"
+    },
+    {
+      "id":10,
+      "name_map":"Loled Furniture Season 3 - City Map",
+      "map_url":"https://argaputraproject.com/map/loledcity/LoledFurnitureMap.zip",
+      "view_map":"https://argaputraproject.com/map/loledcity/tampilan.jpg",
+      "des_map":"https://argaputraproject.com/map/loledcity/loledmap.html"
     }
   ]
 }
